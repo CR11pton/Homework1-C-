@@ -1,0 +1,15 @@
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/bin/Debug/net6.0/1 task
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/bin/Debug/net6.0/1 task.deps.json
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/bin/Debug/net6.0/1 task.runtimeconfig.json
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/bin/Debug/net6.0/1 task.dll
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/bin/Debug/net6.0/1 task.pdb
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/obj/Debug/net6.0/1 task.csproj.AssemblyReference.cache
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/obj/Debug/net6.0/1 task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/obj/Debug/net6.0/1 task.AssemblyInfoInputs.cache
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/obj/Debug/net6.0/1 task.AssemblyInfo.cs
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/obj/Debug/net6.0/1 task.csproj.CoreCompileInputs.cache
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/obj/Debug/net6.0/1 task.dll
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/obj/Debug/net6.0/refint/1 task.dll
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/obj/Debug/net6.0/1 task.pdb
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/obj/Debug/net6.0/1 task.genruntimeconfig.cache
+/Users/asilbeksoliyev/Desktop/Homework 1 C#/1 task/obj/Debug/net6.0/ref/1 task.dll
