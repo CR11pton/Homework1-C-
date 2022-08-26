@@ -9,7 +9,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 if(number % 2 == 0)
 {
-    Console.WriteLine("Even");
+    Console.WriteLine("Written number is Even");
 }
 else
-Console.WriteLine("Odd");
+Console.WriteLine("Written number is Odd");
